@@ -1,0 +1,45 @@
+# 🤖 AI Text Summarizer
+
+A simple AI-powered Text Summarizer built using Python, Streamlit, and OpenAI API.
+
+## 🚀 Features
+
+- Summarizes long text into 3 clear lines
+- Uses Large Language Models (LLMs)
+- Simple and interactive web interface
+- Built with Generative AI concepts
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- OpenAI API
+- Prompt Engineering
+
+## 📦 Installation
+
+1. Clone the repository
+
+git clone https://github.com/dineshTech-creator/ai-text-summarizer.git
+
+2. Navigate to project folder
+
+cd ai-text-summarizer
+
+3. Install dependencies
+
+pip install -r requirements.txt
+
+4. Set your OpenAI API key
+
+On Windows:
+setx OPENAI_API_KEY "your_api_key_here"
+
+On Mac/Linux:
+export OPENAI_API_KEY="your_api_key_here"
+
+5. Run the app
+
+streamlit run app.py
+
+### 👨‍💻 Developed by Dinesh K
